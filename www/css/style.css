@@ -15,10 +15,14 @@ html,body {
 }
 
 #btn {
-  font-size:x=large;
+  font-size:x=2em;
 }
 
 #btn::after {
   content: "▶";
   color: red;
+}
+
+#disp1{
+    front-size: =x-large;
 }
